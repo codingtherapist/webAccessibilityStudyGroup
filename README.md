@@ -1,18 +1,16 @@
 # Web Accessibility Study Group
 Weekly live stream study group for devs who want to learn web accessibility
+<b>Greetings and welcome to the Web Accessibility Study Group!</b>
 
+<h2>About Our Study Group</h2>
 
-<h2>Greetings and welcome to the Web Accessibility Study Group!</h2>
-
-<h3>About Our Study Group</h3>
-
-<h4> Who it's for:</h4>
+<h3> Who it's for:</h3>
 
 - Web developers who want to learn more about Web Accessibility and how to build inclusive human centered web application
 
 - Web Developers or Accessibility Enthusiast who are studying for the CPACC or WAS IAAP exams
 
-<h4> Where and When We Meet</h4>
+<h3> Where and When We Meet</h3>
 When:
 
 - Once a week TBD
@@ -24,7 +22,7 @@ Where:
 - Discord (group will be created for correspondence, support, questions and silent study once a week)
 
 
-<h3> Prerequisites</h3>
+<h2> Prerequisites</h2>
 <b>First</b>, please join us officially by going to our discussions page and introducing yourself!
 
 [Welcome Page and Introduction](https://github.com/codingtherapist/webAccessibilityStudyGroup/discussions/5) <br><br>
