@@ -13,12 +13,11 @@ Weekly live stream study group for devs who want to learn web accessibility
 - Web Developers or Accessibility Enthusiast who are studying for the CPACC or WAS IAAP exams
 
 <h4> Where and When We Meet</h4>
-
-<b>When:</b>
+When:
 
 - Once a week TBD
 
-<b>Where:</b>
+Where:
 
 - [Twitch Live Stream](https://www.twitch.tv/africakenyah)
 
