@@ -1,16 +1,18 @@
 # Web Accessibility Study Group
 Weekly live stream study group for devs who want to learn web accessibility
-<h1>Greetings and welcome to the Web Accessibility Study Group!</h1>
 
-<h2>About Our Study Group</h2>
 
-<h3> Who it's for:</h3>
+<h2>Greetings and welcome to the Web Accessibility Study Group!</h2>
+
+<h3>About Our Study Group</h3>
+
+<h4> Who it's for:</h4>
 
 - Web developers who want to learn more about Web Accessibility and how to build inclusive human centered web application
 
 - Web Developers or Accessibility Enthusiast who are studying for the CPACC or WAS IAAP exams
 
-<h3> Where and When We Meet</h3>
+<h4> Where and When We Meet</h4>
 
 <b>When:</b>
 
@@ -23,7 +25,7 @@ Weekly live stream study group for devs who want to learn web accessibility
 - Discord (group will be created for correspondence, support, questions and silent study once a week)
 
 
-<h2> Prerequisites</h2>
+<h3> Prerequisites</h3>
 
 Below are a few resources to get you familiar with the material we will be using to guide our study. Please also note there is homework and material to review in the homework section of our project page for each week. The videos in the homework week 0 section will help to get you started on understanding the fundamentals of web accessibility. These should be watched to ensure we are all on the same page with the same base of knowledge. <br>
 <b>You can find the videos you need to watch before starting the first study session here:</b> <br>
@@ -43,7 +45,7 @@ Below is the material we will be using as we study weekly.<br>
 
 - If you'd like to learn more about the IAAP which is the association that holds these certifications check out [IAAP](https://www.accessibilityassociation.org/s/about) 
 
-<h3>Certified Professional in Accessibility Core Competencies (CPACC)</h3>
+<h4>Certified Professional in Accessibility Core Competencies (CPACC)</h4>
 
 [About the CPACC](https://www.accessibilityassociation.org/s/certified-professional) <br>
 
@@ -54,7 +56,7 @@ Below is the material we will be using as we study weekly.<br>
 [Sample exam questions](https://www.accessibilityassociation.org/s/cpacc-sample-exam-questions) <bR>
 
 
-<h3>Web Accessibility Specialist (WAS)</h3>
+<h4>Web Accessibility Specialist (WAS)</h4>
 
 [About the WAS](https://www.accessibilityassociation.org/s/wascertification) <br>
 
