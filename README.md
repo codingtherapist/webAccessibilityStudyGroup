@@ -1,9 +1,7 @@
 # Web Accessibility Study Group
-Weekly live stream study group for devs who want to learn web accessibility
-<b>Greetings and welcome to the Web Accessibility Study Group!</b>
+Greetings and welcome to the Web Accessibility Study Group!
 
 <h2>About Our Study Group</h2>
-
 <h3> Who it's for:</h3>
 
 - Web developers who want to learn more about Web Accessibility and how to build inclusive human centered web application
