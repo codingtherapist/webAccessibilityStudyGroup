@@ -32,7 +32,12 @@ Below are a few resources to get you familiar with the material we will be using
 [Week 0 Prereq Homework](https://github.com/users/codingtherapist/projects/1?pane=issue&itemId=34268762)
 
 <h2> Web Accessibility Group Study Outline Material</h2>
-Below is the material we will be using as we study weekly.<br>
+
+Our official study plan can be found here, with what we are learning each week, and weekly reading/ homework:
+https://github.com/users/codingtherapist/projects/1
+
+
+Below is the material we will be using as we study weekly to suppliment the above study guide:<br>
 
 - If you are not familiar with the WAS or CPACC please read the "About" material linked. <br>
 
