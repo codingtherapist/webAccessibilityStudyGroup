@@ -36,6 +36,8 @@ Below are a few resources to get you familiar with the material we will be using
 Our official study plan can be found here, with what we are learning each week, and weekly reading/ homework:
 https://github.com/users/codingtherapist/projects/1
 
+Each week has an outline of what we will be studying on stream, with an area for comments if anyone has any questions or comments etc.
+
 
 Below is the material we will be using as we study weekly to suppliment the above study guide:<br>
 
