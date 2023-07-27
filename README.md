@@ -1,25 +1,29 @@
 # Web Accessibility Study Group
 Greetings and welcome to the Web Accessibility Study Group!
+<br>
 
-![web accessibility study group logo with hands keyboard and coding sign](https://github.com/codingtherapist/webAccessibilityStudyGroup/assets/96845068/4dd51af2-7054-421c-8b13-37b776401356)
+![web accessibility study group logo with text and lines in computer shape](https://github.com/codingtherapist/webAccessibilityStudyGroup/assets/96845068/af783ee1-1b25-4f3f-afa0-0b8a633d4214)
 
+<br>
 <h2>About Our Study Group</h2>
 <h3> Who it's for:</h3>
 
-- Web developers who want to learn more about Web Accessibility and how to build inclusive human centered web application
+- Web developers or designers who want to learn more about Web Accessibility and how to build inclusive human centered web application
 
-- Web Developers or Accessibility Enthusiast who are studying for the CPACC or WAS IAAP exams
+- Web Developers or Accessibility Enthusiast who are studying for the DHS Trusted Tester Certification or the IAAP CPACC or WAS exams
 
 <h3> Where and When We Meet</h3>
 When:
 
-- Once a week TBD
+- Starting in September 2023, once a week TBD
 
 Where:
 
 - [Twitch Live Stream](https://www.twitch.tv/africakenyah)
 
-- Discord (group will be created for correspondence, support, questions and silent study once a week)
+- [Github discussions](https://github.com/codingtherapist/webAccessibilityStudyGroup/discussions) (official communication area where we will be meeting to chat about each weeks homework and general discussions on the discussion page)
+
+- Discord (group will be created for silent study once a week and to connect between ourselves as we study for support)
 
 
 <h2> Prerequisites</h2>
