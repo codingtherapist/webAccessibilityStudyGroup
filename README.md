@@ -27,9 +27,9 @@ Where:
 
 
 <h2> Prerequisites</h2>
-<b>First</b>, please join us officially by going to our discussions page and introducing yourself!
+<b>First, please join us officially</b> by going to our discussions page and introducing yourself!
 
-[Welcome Page and Introduction](https://github.com/codingtherapist/webAccessibilityStudyGroup/discussions/5) <br><br>
+[Welcome Discussion Page and Introduction](https://github.com/codingtherapist/webAccessibilityStudyGroup/discussions/5) <br><br>
 
 <b>Second</b>, get yourself aquainted with the study plan, homework, and outlines we will be using.<br> 
 Below are a few resources to get you familiar with the material we will be using to guide our study. Please also note there is homework and material to review in the homework section of our project page for each week. The videos in the homework week 0 section will help to get you started on understanding the fundamentals of web accessibility. These should be watched to ensure we are all on the same page with the same base of knowledge. <br>
