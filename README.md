@@ -15,11 +15,11 @@ Greetings and welcome to the Web Accessibility Study Group!
 <h3> Where and When We Meet</h3>
 When:
 
-- Starting in September 2023, once a week TBD
+- Starting in September 2023, once a week live on Twitch TBD
 
 Where:
 
-- [Twitch Live Stream](https://www.twitch.tv/africakenyah)
+- [Twitch Live Stream](https://www.twitch.tv/africakenyah) once a week for 1.5 - 3 hours
 
 - [Github discussions](https://github.com/codingtherapist/webAccessibilityStudyGroup/discussions) (official communication area where we will be meeting to chat about each weeks homework and general discussions on the discussion page)
 
