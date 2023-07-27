@@ -1,6 +1,7 @@
 # Web Accessibility Study Group
 Greetings and welcome to the Web Accessibility Study Group!
-![web accessibility study group logo with hands keyboard and coding sign](https://github.com/codingtherapist/webAccessibilityStudyGroup/assets/96845068/352b7196-38f1-4e14-ae16-34a88340e68b)
+
+![web accessibility study group logo with hands keyboard and coding sign](https://github.com/codingtherapist/webAccessibilityStudyGroup/assets/96845068/4dd51af2-7054-421c-8b13-37b776401356)
 
 <h2>About Our Study Group</h2>
 <h3> Who it's for:</h3>
