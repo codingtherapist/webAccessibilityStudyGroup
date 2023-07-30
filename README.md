@@ -88,8 +88,8 @@ Below is the material we will be using as we study weekly to supplement the abov
 
 [WAS Body of Knowledge](https://www.accessibilityassociation.org/resource/WAS_Certification_FInal_2020_FINAL) <br>
 
-[Sample exam questions](https://www.accessibilityassociation.org/s/was-sample-exam-questions) <br
+[Sample exam questions](https://www.accessibilityassociation.org/s/was-sample-exam-questions) <br>
 
-<h3> DHS Trusted Tester</h3>
+<h4> DHS Trusted Tester</h4>
 
-[About the DHS Trusted Tester]([https://www.accessibilityassociation.org/s/wascertification](https://www.dhs.gov/trusted-tester)https://www.dhs.gov/trusted-tester) <br>
+[About the DHS Trusted Tester](https://www.accessibilityassociation.org/s/wascertification](https://www.dhs.gov/trusted-tester)https://www.dhs.gov/trusted-tester)
