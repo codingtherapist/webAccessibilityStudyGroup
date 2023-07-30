@@ -56,7 +56,7 @@ Our [official study plan can be found here](https://github.com/users/codingthera
 
 
 
-Below is the material we will be using as we study weekly to <b>suppliment</b> the above study guide:<br>
+Below is the material we will be using as we study weekly to supplement the above study guide:<br>
 
 - If you are not familiar with the WAS or CPACC please read the "About" material linked. <br>
 
