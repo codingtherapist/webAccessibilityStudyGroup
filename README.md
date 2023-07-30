@@ -10,7 +10,8 @@ Greetings and welcome to the Web Accessibility Study Group!
 
 - Web developers who want to learn more about Web Accessibility and how to build inclusive, human centered web applications
 
-- Accessibility professionals/ newbies studying for the DHS Trusted Tester Certification, or the IAAP CPACC or WAS exams (more info on these certifications at the bottom of the page)
+- Accessibility professionals/ newbies studying for the Department of Homeland Security (DHS) Trusted Tester Certification
+- Accessibility professionals/ newbies studying for the International Association of Accessibility Professionals (IAAP) certifications including the Certified Professional in Accessibility Core Competencies (CPACC), or Web Accessibility Specialist (WAS) exams (more info on these certifications at the bottom of the page)
 - Web accessibility professionals interested in a refresh or learning community
 - Web accessibility proffessionals interested in facilitating learning for newbies by helping in the chat with questions or guidelance during livestreams
 
@@ -31,7 +32,7 @@ Where:
 <h3>This is not a structured accessibility learning course, it is a study group</h3>
 This is a study group for newbies and professionals who would like to get together and learn more about accessibility fundamentals and front end web development. It is also for those interested in sitting for accessibility certifications who need accountability buddies. While @africakenyah feels confident in her skills in accessibility testing, she does not have a lot of experience shipping accessible code. We will be learning those concepts together, building things that may or may not work. If you are interested in learning in a casual, low stakes environment with other accessibility enthusiasts, this is the right place. If you are interested in a structured web accessibility course, this is not a good fit.
 
-<h3>Members can join live on twitch!</h3>
+<h3>Members can join the livestream via video as a guest on twitch!</h3>
 We will be streaming weekly on twitch, sharing concepts and live coding accessible elements. While @africakenyah will be the one streaming, others in the study group can join the stream via video on any week. Study participants can choose to teach the group a concept, ask questions, or just turn their camera on and study silently. Alternatively (and highly encouraged), accessibility professionals with experience can request to lead the study group and give clarity on the subjects we are learning for the week. A google doc will be created for members to request to join for any of the upcoming weeks. The twitch chat will always be available for communication to those who prefer to chat and watch only.
 
 <h3>We will meet weekly, but life happens</h3>
@@ -58,13 +59,13 @@ Our [official study plan can be found here](https://github.com/users/codingthera
 
 Below is the material we will be using as we study weekly to supplement the above study guide:<br>
 
-- If you are not familiar with the WAS or CPACC please read the "About" material linked. <br>
+- If you are not familiar with the WAS or CPACC please read the "About" material linked below. <br>
 
 - The "Study Outline" is what we will be following loosely during live streams, starting with the CPACC outline. <br>
 
-- The "Body of Knowledge" is the official documentation for that topic ranging from 102 pages for the CPACC and 42 pages for the WAS <br>
+- The "Body of Knowledge" is the official documentation for that topic ranging from 102 pages for the CPACC and 42 pages for the WAS. <br>
 
-- The sample questions are question we should be able to answer once we finish studying.
+- The sample questions are question we should be able to answer once we finish studying that section.
 
 - If you'd like to learn more about the IAAP which is the association that holds these certifications check out [IAAP](https://www.accessibilityassociation.org/s/about) 
 
@@ -87,4 +88,8 @@ Below is the material we will be using as we study weekly to supplement the abov
 
 [WAS Body of Knowledge](https://www.accessibilityassociation.org/resource/WAS_Certification_FInal_2020_FINAL) <br>
 
-[Sample exam questions](https://www.accessibilityassociation.org/s/was-sample-exam-questions) <br>
+[Sample exam questions](https://www.accessibilityassociation.org/s/was-sample-exam-questions) <br
+
+<h3> DHS Trusted Tester</h3>
+
+[About the DHS Trusted Tester]([https://www.accessibilityassociation.org/s/wascertification](https://www.dhs.gov/trusted-tester)https://www.dhs.gov/trusted-tester) <br>
