@@ -102,4 +102,4 @@ Below is the material we will be using as we study weekly to supplement the abov
 
 <h4> DHS Trusted Tester</h4>
 
-[About the DHS Trusted Tester](https://www.dhs.gov/trusted-tester)https://www.dhs.gov/trusted-tester)
+[About the DHS Trusted Tester](https://www.dhs.gov/trusted-tester)
