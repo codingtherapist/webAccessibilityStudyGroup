@@ -54,7 +54,7 @@ While the intent is to meet every week and hold ourselves accountable to that, l
 Below are a few resources to get you familiar with the material we will be using to guide our study. Please also note there is homework and material to review in the homework section of our project page for each week. The videos in the homework week 0 section will help to get you started on understanding the fundamentals of web accessibility. These should be watched to ensure we are all on the same page with the same base of knowledge. <br>
 <b>You can find the videos you need to watch before starting the first study session here:</b> 
 
-[Week 0 Prereq Homework](https://github.com/users/codingtherapist/projects/1?pane=issue&itemId=34268762)
+[Week 0 Prereq Homework]([https://github.com/users/codingtherapist/projects/1?pane=issue&itemId=34268762](https://github.com/users/codingtherapist/projects/1?pane=issue&itemId=34268762))
 
 <h2> Web Accessibility Group Study Outline Material</h2>
 
