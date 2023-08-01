@@ -54,7 +54,12 @@ While the intent is to meet every week and hold ourselves accountable to that, l
 [Welcome Discussion Page and Introduction](https://github.com/codingtherapist/webAccessibilityStudyGroup/discussions/5) <br><br>
 
 <b>Second</b>, get yourself aquainted with the study plan, homework, and outlines we will be using.<br> 
-Below are a few resources to get you familiar with the material we will be using to guide our study. Please also note there is homework and material to review in the homework section of our project page for each week. The material in the [Week 0 Homework/ Reading](https://github.com/users/codingtherapist/projects/1?pane=issue&itemId=34268762)  project page will help to get you started on understanding the fundamentals of web accessibility. These should be completed to ensure we are all on the same page with the same base of knowledge. 
+Please also note there is homework and material to review in the homework section of our project page for each week. The material in the homework week 0 section will help to get you started on understanding the fundamentals of web accessibility. These should be completed to ensure we are all on the same page with the same base of knowledge. <br>
+<b>You can find the videos you need to watch before starting the first study session here:</b> <br>
+Note: if you are on mobile, click the link below and scroll down to "homework/ readings week 0 prereqs before we start" <br>
+
+[Week 0 Prereq Homework](https://github.com/users/codingtherapist/projects/1?pane=issue&itemId=34268762)
+
 
 <h2> Web Accessibility Group Study Outline Material</h2>
 
