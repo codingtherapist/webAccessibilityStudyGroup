@@ -8,22 +8,10 @@ Greetings and welcome to the Web Accessibility Study Group!
 <h2>About Our Study Group</h2>
 <h3>What is the Web Accessibility Study Group?</h3>
 This is a study group for individuals who would like support and community as they learn web accessibility topics. The group follows a 16 week study guide outlining topics from web accessibility fundamentals to Javascript ARIA widgets. Each week we will study a topic together, with a weekly live stream on twitch. Extra support will be provided via our Github discussions page or Discord server. 
-
-<h3> Who it's for:</h3>
-
-- Web developers who want to learn more about Web Accessibility and how to build inclusive, human centered web applications
-- Web accessibility professionals interested in a refresh or learning community
-- Web accessibility proffessionals interested in facilitating learning for newbies by helping in the chat with questions or guidelance during livestreams
-
-- Individuals studying for the following certifications
-    - [Department of Homeland Security (DHS) Trusted Tester Certification](https://www.dhs.gov/trusted-tester)
-    - [The International Association of Accessibility Professionals (IAAP)](https://www.accessibilityassociation.org/s/about) certifications including the [Certified Professional in Accessibility Core Competencies (CPACC)](https://www.accessibilityassociation.org/s/certified-professional) and the [Web Accessibility Specialist (WAS)](https://www.accessibilityassociation.org/s/wascertification)
-
-
 <h3> Where and When We Meet</h3>
 When:
 
-- Starting in September 2023, once a week, time TBD
+- September 2023, once a week, TBD
 
 Where:
 
@@ -32,6 +20,21 @@ Where:
 - [Github discussions](https://github.com/codingtherapist/webAccessibilityStudyGroup/discussions) (official communication area where we will be meeting to chat about each weeks homework and general discussions on the discussion page)
 
 - Discord (group will be created for silent study and to connect between ourselves as we study for support)
+<h3> Who it's for:</h3>
+
+- Web developers who want to learn more about Web Accessibility and how to build inclusive, human centered web applications
+- Web accessibility professionals interested in a refresh or learning community
+- Web accessibility professionals interested in facilitating learning for newbies by:
+    - Leading or facilitating the learning of a topic during live streams via co streaming a study session on twitch with @africakenyah
+    - Helping out in the chat with questions members may have on discord or the github community
+    - Hanging out in the chat area on Twtich during live streams and answering questions we may get stuck on (or correcting information that may be wrong)
+
+- Individuals studying for the following certifications:
+    - [Department of Homeland Security (DHS) Trusted Tester Certification](https://www.dhs.gov/trusted-tester)
+    - [The International Association of Accessibility Professionals (IAAP)](https://www.accessibilityassociation.org/s/about) certifications including the [Certified Professional in Accessibility Core Competencies (CPACC)](https://www.accessibilityassociation.org/s/certified-professional) and the [Web Accessibility Specialist (WAS)](https://www.accessibilityassociation.org/s/wascertification)
+
+
+
 
 <h2>DISCLAIMER</h2>
 <h3>This is not a structured accessibility learning course, it is a study group</h3>
@@ -51,14 +54,11 @@ While the intent is to meet every week and hold ourselves accountable to that, l
 [Welcome Discussion Page and Introduction](https://github.com/codingtherapist/webAccessibilityStudyGroup/discussions/5) <br><br>
 
 <b>Second</b>, get yourself aquainted with the study plan, homework, and outlines we will be using.<br> 
-Below are a few resources to get you familiar with the material we will be using to guide our study. Please also note there is homework and material to review in the homework section of our project page for each week. The videos in the homework week 0 section will help to get you started on understanding the fundamentals of web accessibility. These should be watched to ensure we are all on the same page with the same base of knowledge. <br>
-<b>You can find the videos you need to watch before starting the first study session here:</b> 
-
-[Week 0 Prereq Homework]([https://github.com/users/codingtherapist/projects/1?pane=issue&itemId=34268762](https://github.com/users/codingtherapist/projects/1?pane=issue&itemId=34268762))
+Below are a few resources to get you familiar with the material we will be using to guide our study. Please also note there is homework and material to review in the homework section of our project page for each week. The material in the [Week 0 Homework/ Reading](https://github.com/users/codingtherapist/projects/1?pane=issue&itemId=34268762)  project page will help to get you started on understanding the fundamentals of web accessibility. These should be completed to ensure we are all on the same page with the same base of knowledge. 
 
 <h2> Web Accessibility Group Study Outline Material</h2>
 
-Our [official study plan](https://github.com/users/codingtherapist/projects/1) contains the material we are learning each week, and weekly reading/ homework. Each week has an outline of what we will be studying on stream, with an area for comments if anyone has any questions or comments etc.<br><br>
+Our [official study plan](https://github.com/users/codingtherapist/projects/1) lives in the "projects" section of Github and contains the material we are learning each week. Each week has an outline of what we will be studying on stream and homework, with an area for comments if anyone has any questions or comments etc.<br><br>
 
 
 
