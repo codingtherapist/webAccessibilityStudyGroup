@@ -12,11 +12,13 @@ This is a study group for individuals who would like support and community as th
 <h3> Who it's for:</h3>
 
 - Web developers who want to learn more about Web Accessibility and how to build inclusive, human centered web applications
-
-- Individuals studying for the Department of Homeland Security (DHS) Trusted Tester Certification
-- Individuals studying for the International Association of Accessibility Professionals (IAAP) certifications including the Certified Professional in Accessibility Core Competencies (CPACC), or Web Accessibility Specialist (WAS) exams (more info on these certifications at the bottom of the page)
 - Web accessibility professionals interested in a refresh or learning community
 - Web accessibility proffessionals interested in facilitating learning for newbies by helping in the chat with questions or guidelance during livestreams
+
+- Individuals studying for the following certifications
+    - [Department of Homeland Security (DHS) Trusted Tester Certification](https://www.dhs.gov/trusted-tester)
+    - [The International Association of Accessibility Professionals (IAAP)](https://www.accessibilityassociation.org/s/about) certifications including the [Certified Professional in Accessibility Core Competencies (CPACC)](https://www.accessibilityassociation.org/s/certified-professional) and the [Web Accessibility Specialist (WAS)](https://www.accessibilityassociation.org/s/wascertification)
+
 
 <h3> Where and When We Meet</h3>
 When:
@@ -56,7 +58,7 @@ Below are a few resources to get you familiar with the material we will be using
 
 <h2> Web Accessibility Group Study Outline Material</h2>
 
-Our [official study plan can be found here](https://github.com/users/codingtherapist/projects/1), with what we are learning each week, and weekly reading/ homework. Each week has an outline of what we will be studying on stream, with an area for comments if anyone has any questions or comments etc.<br><br>
+Our [official study plan](https://github.com/users/codingtherapist/projects/1) contains the material we are learning each week, and weekly reading/ homework. Each week has an outline of what we will be studying on stream, with an area for comments if anyone has any questions or comments etc.<br><br>
 
 
 
