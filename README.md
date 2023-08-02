@@ -27,7 +27,7 @@ Where:
 - Web accessibility professionals interested in facilitating learning for newbies by:
     - Leading or facilitating the learning of a topic during live streams via co streaming a study session on twitch with @africakenyah
     - Helping out in the chat with questions members may have on discord or the github community
-    - Hanging out in the chat area on Twtich during live streams and answering questions we may get stuck on (or correcting information that may be wrong)
+    - Hanging out in the chat area on Twitch during live streams and answering questions we may get stuck on (or correcting information that may be wrong)
 
 - Individuals studying for the following certifications:
     - [Department of Homeland Security (DHS) Trusted Tester Certification](https://www.dhs.gov/trusted-tester)
