@@ -7,10 +7,9 @@ Greetings and welcome to the Web Accessibility Study Group!
 <br>
 <h2>About Our Study Group</h2>
 <h3>What is the Web Accessibility Study Group?</h3>
-This is a study group for individuals who would like support and community as they learn web accessibility topics. The group follows a 16 week study guide outlining topics from web accessibility fundamentals to Javascript ARIA widgets. Each week we will study a topic together, with a weekly live stream on twitch. Extra support will be provided via our Github discussions page or Discord server. 
+This is a study group for individuals who would like support and community as they learn web accessibility topics. The group follows a 16 week study guide outlining topics from web accessibility fundamentals to Javascript ARIA widgets.
 <h3> Where and When We Meet</h3>
 When:
-
 - September 2023, once a week, TBD
 
 Where:
