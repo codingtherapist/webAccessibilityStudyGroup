@@ -24,18 +24,12 @@ Where:
 
 - Web developers who want to learn more about Web Accessibility and how to build inclusive, human centered web applications
 - Web accessibility professionals interested in a refresh or learning community
-- Web accessibility professionals interested in facilitating learning for newbies by:
-    - Leading or facilitating the learning of a topic during live streams via co streaming a study session on twitch with @africakenyah
-    - Helping out in the chat with questions members may have on discord or the github community
-    - Hanging out in the chat area on Twitch during live streams and answering questions we may get stuck on (or correcting information that may be wrong)
-
 - Individuals studying for the following certifications:
     - [Department of Homeland Security (DHS) Trusted Tester Certification](https://www.dhs.gov/trusted-tester)
     - [The International Association of Accessibility Professionals (IAAP)](https://www.accessibilityassociation.org/s/about) certifications including the [Certified Professional in Accessibility Core Competencies (CPACC)](https://www.accessibilityassociation.org/s/certified-professional) and the [Web Accessibility Specialist (WAS)](https://www.accessibilityassociation.org/s/wascertification)
-
-
-
-
+- Web accessibility professionals interested in mentoring or helping members by:
+    - Leading or facilitating the learning of a topic during live streams via co streaming a study session on twitch with @africakenyah
+    - Helping out in the chat with questions members may have during live streams or on Discord/ Github discussions
 <h2>DISCLAIMER</h2>
 <h3>This is not a structured accessibility learning course, it is a study group</h3>
 This is a study group for newbies and professionals who would like to get together to study accessibility topics. While @africakenyah feels confident in her skills in accessibility testing, she does not have a lot of experience shipping accessible code. We will be learning and studying those concepts together, building things that may or may not work. If you are interested in learning in a casual, low stakes environment with other accessibility enthusiasts, this is the right place. If you are interested in a structured web accessibility course, this is not a good fit.
