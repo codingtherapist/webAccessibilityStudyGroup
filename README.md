@@ -30,17 +30,6 @@ Where:
 - Web accessibility professionals interested in mentoring or helping members by:
     - Leading or facilitating the learning of a topic during live streams via co streaming a study session on twitch with @africakenyah
     - Helping out in the chat with questions members may have during live streams or on Discord/ Github discussions
-<h2>DISCLAIMER</h2>
-<h3>This is not a structured accessibility learning course, it is a study group</h3>
-This is a study group for newbies and professionals who would like to get together to study accessibility topics. While @africakenyah feels confident in her skills in accessibility testing, she does not have a lot of experience shipping accessible code. We will be learning and studying those concepts together, building things that may or may not work. If you are interested in learning in a casual, low stakes environment with other accessibility enthusiasts, this is the right place. If you are interested in a structured web accessibility course, this is not a good fit.
-
-<h3>Members can join the livestream via video as a guest on twitch!</h3>
-We will be streaming weekly on twitch, sharing concepts and live coding accessible elements. While @africakenyah will be the one streaming, others in the study group can join the stream via video as a co-streamer on any week. Co- streamers can choose to teach the group a concept, ask questions, or just turn their camera on and study silently. Alternatively (and highly encouraged), <b>accessibility professionals with experience can request to lead the study group and give clarity on the subjects we are learning for the week</b>. A calendly calendar will be created for members to sign up for co streaming any of the upcoming weeks. The twitch chat will always be available for communication to those who prefer to chat and watch only.
-
-<h3>We will meet weekly, but life happens</h3>
-While the intent is to meet every week and hold ourselves accountable to that, life happens. As a full time professional with a personal life, there may be weeks we do not meet on twitch. However, the discord will always be available for members to chat and meet for silent study or discussion at their discretion. If anyone else has a twitch and would like to lead a week, that is an option as well!
-
-
 
 <h2> Prerequisites</h2>
 <b>First, please join us officially</b> by going to our discussions page and introducing yourself!
@@ -97,3 +86,14 @@ Below is the material we will be using as we study weekly to supplement the abov
 <h4> DHS Trusted Tester</h4>
 
 [About the DHS Trusted Tester](https://www.dhs.gov/trusted-tester)
+
+<h2>DISCLAIMER</h2>
+<h3>This is not a structured accessibility learning course, it is a study group</h3>
+This is a study group for newbies and professionals who would like to get together to study accessibility topics. While @africakenyah feels confident in her skills in accessibility testing, she does not have a lot of experience shipping accessible code. We will be learning and studying those concepts together, building things that may or may not work. If you are interested in learning in a casual, low stakes environment with other accessibility enthusiasts, this is the right place. If you are interested in a structured web accessibility course, this is not a good fit.
+
+<h3>Members can join the livestream via video as a guest on twitch!</h3>
+We will be streaming weekly on twitch, sharing concepts and live coding accessible elements. While @africakenyah will be the one streaming, others in the study group can join the stream via video as a co-streamer on any week. Co- streamers can choose to teach the group a concept, ask questions, or just turn their camera on and study silently. Alternatively (and highly encouraged), <b>accessibility professionals with experience can request to lead the study group and give clarity on the subjects we are learning for the week</b>. A calendly calendar will be created for members to sign up for co streaming any of the upcoming weeks. The twitch chat will always be available for communication to those who prefer to chat and watch only.
+
+<h3>We will meet weekly, but life happens</h3>
+While the intent is to meet every week and hold ourselves accountable to that, life happens. As a full time professional with a personal life, there may be weeks we do not meet on twitch. However, the discord will always be available for members to chat and meet for silent study or discussion at their discretion. If anyone else has a twitch and would like to lead a week, that is an option as well!
+
