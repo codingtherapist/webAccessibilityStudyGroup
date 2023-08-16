@@ -4,6 +4,8 @@ Greetings and welcome to the Web Accessibility Study Group!
 
 ![web accessibility study group logo with text and lines in computer shape](https://github.com/codingtherapist/webAccessibilityStudyGroup/assets/96845068/af783ee1-1b25-4f3f-afa0-0b8a633d4214)
 
+Here is the youtube video of the live info session going over all the information found in this repo: https://www.youtube.com/watch?v=ZVQiqL0HqsI&t=812s
+
 <br>
 <h2>About Our Study Group</h2>
 <h3>What is the Web Accessibility Study Group?</h3>
