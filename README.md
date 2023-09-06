@@ -13,11 +13,11 @@ This is a study group for individuals who would like support and community as th
 <h3> Where and When We Meet</h3>
 When:
 
-- September 2023, once a week, TBD
+- September 14th - December 2023, once a week on Thursdays in between 3:30PM EST and 6pm EST.
 
 Where:
 
-- [Twitch Live Stream](https://www.twitch.tv/africakenyah) for 1.5 - 3 hours
+- [Twitch Live Stream](https://www.twitch.tv/africakenyah) for 1 - 3 hours
 
 - [Github discussions](https://github.com/codingtherapist/webAccessibilityStudyGroup/discussions) (official communication area where we will be meeting to chat about each weeks homework and general discussions on the discussion page)
 
