@@ -21,7 +21,7 @@ Where:
 
 - [Github discussions](https://github.com/codingtherapist/webAccessibilityStudyGroup/discussions) (official communication area where we will be meeting to chat about each weeks homework and general discussions on the discussion page)
 
-- Discord (group will be created for silent study and to connect between ourselves as we study for support)
+- Discord (check the [Welcome Discussion Page and Introduction](https://github.com/codingtherapist/webAccessibilityStudyGroup/discussions/5) for instructions on how to gain access)
 <h3> Who it's for:</h3>
 
 - Web developers who want to learn more about Web Accessibility and how to build inclusive, human centered web applications
