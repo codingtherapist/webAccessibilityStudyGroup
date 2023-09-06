@@ -19,7 +19,7 @@ Where:
 
 - [Twitch Live Stream](https://www.twitch.tv/africakenyah) for 1 - 3 hours
 
-- Discord (check the our [Welcome and Introductions Discussion Page](https://github.com/codingtherapist/webAccessibilityStudyGroup/discussions/5) for instructions on how to gain access)
+- Discord (check the our [Welcome and Introductions Page](https://github.com/codingtherapist/webAccessibilityStudyGroup/discussions/5) for instructions on how to gain access)
 <h3> Who it's for:</h3>
 
 - Web developers who want to learn more about Web Accessibility and how to build inclusive, human centered web applications
@@ -34,7 +34,7 @@ Where:
 <h2> Prerequisites</h2>
 <b>First, please join us officially</b> by going to our discussions page and introducing yourself!
 
-[Welcome and Introductions Discussion Page](https://github.com/codingtherapist/webAccessibilityStudyGroup/discussions/5) <br><br>
+[Welcome and Introductions Page](https://github.com/codingtherapist/webAccessibilityStudyGroup/discussions/5) <br><br>
 
 <b>Second</b>, get yourself aquainted with the study plan, homework, and outlines we will be using.<br> 
 There is homework and material to review in the homework/readings section of our project page for each week. The material in the homework week 0 section will help to get you started on understanding the fundamentals of web accessibility. These should be completed to ensure we are all on the same page with the same base of knowledge. <br>
