@@ -19,8 +19,6 @@ Where:
 
 - [Twitch Live Stream](https://www.twitch.tv/africakenyah) for 1 - 3 hours
 
-- [Github discussions](https://github.com/codingtherapist/webAccessibilityStudyGroup/discussions) (official communication area where we will be meeting to chat about each weeks homework and general discussions on the discussion page)
-
 - Discord (check the [Github discussions](https://github.com/codingtherapist/webAccessibilityStudyGroup/discussions/5) page for instructions on how to gain access)
 <h3> Who it's for:</h3>
 
