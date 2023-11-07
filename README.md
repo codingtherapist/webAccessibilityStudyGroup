@@ -9,12 +9,12 @@ Here is the youtube video of the live info session going over all the informatio
 <br>
 <h2>About Our Study Group</h2>
 <h3>What is the Web Accessibility Study Group?</h3>
-This is a study group for individuals who would like support and community as they learn web accessibility topics. The group follows a 16 week study guide outlining topics from web accessibility fundamentals to Javascript ARIA widgets.
+This is a study group for individuals who would like support and community as they learn web accessibility topics. The group follows a 16 week study guide outlining topics from web accessibility fundamentals to Javascript ARIA widgets. Our official study plan can be found at https://github.com/users/codingtherapist/projects/1
 <h3> Where and When We Meet</h3>
 When:
 
 -  Starting January 18th, once a week on Thursdays in between 4PM EST and 630pm EST.
--  The first 8 week study group covering Web Accessibility Fundamentals for the IAAP CPACC has finished, live stream recordings can be found on youtube at https://www.youtube.com/playlist?list=PLLsW30U_WCtctxoZz-lRF7O9wIcUl34g0 
+-  The first cohort for the 8 week study group covering Web Accessibility Fundamentals for the IAAP CPACC has finished, live stream recordings can be found on youtube at https://www.youtube.com/playlist?list=PLLsW30U_WCtctxoZz-lRF7O9wIcUl34g0 
 
 Where:
 
