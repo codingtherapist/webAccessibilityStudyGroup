@@ -13,7 +13,8 @@ This is a study group for individuals who would like support and community as th
 <h3> Where and When We Meet</h3>
 When:
 
-- September 14th - December 2023, once a week on Thursdays in between 3:30PM EST and 6pm EST.
+-  Starting January 18th, once a week on Thursdays in between 4PM EST and 630pm EST.
+-  The first 8 week study group covering Web Accessibility Fundamentals for the IAAP CPACC has finished, live stream recordings can be found on youtube at https://www.youtube.com/playlist?list=PLLsW30U_WCtctxoZz-lRF7O9wIcUl34g0 
 
 Where:
 
