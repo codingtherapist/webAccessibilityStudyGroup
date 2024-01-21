@@ -1,4 +1,4 @@
-# Web Accessibility Study Group
+### Web Accessibility Study Group
 Greetings and welcome to the Web Accessibility Study Group!
 <br>
 
