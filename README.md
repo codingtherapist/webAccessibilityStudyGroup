@@ -6,21 +6,26 @@ Greetings and welcome to the Web Accessibility Study Group!
 
 Here is the youtube video of the live info session going over all the information found in this repo: https://www.youtube.com/watch?v=ZVQiqL0HqsI&t=812s
 
+Signup For our [Monthly Accessibility Newsletter and Discord Access](https://docs.google.com/forms/d/e/1FAIpQLScM3ib9AARjHearBrNOo-Q3qq1rZgivxwvABecsFbmL5vpv5A/viewform) where we will let you know when we are streaming, share resources with the community, and give you a summary of all the things we learned for the month.
+
 <br>
 <h2>About Our Study Group</h2>
 <h3>What is the Web Accessibility Study Group?</h3>
-This is a study group for individuals who would like support and community as they learn web accessibility topics. The group follows a 16 week study guide outlining topics from web accessibility fundamentals to Javascript ARIA widgets. Our official study plan can be found at https://github.com/users/codingtherapist/projects/1
+This is a study group for individuals who would like support and community as they learn web accessibility topics. The group follows a study guide outlining topics from web accessibility fundamentals to Javascript ARIA widgets. Our official study plan can be found at https://github.com/users/codingtherapist/projects/1
 <h3> Where and When We Meet</h3>
 When:
 
--  Starting January 18th, once a week on Thursdays in between 4PM EST and 630pm EST.
+-  The first and third Thursdays in between 4PM EST and 630pm EST.
 -  The first cohort for the 8 week study group covering Web Accessibility Fundamentals for the IAAP CPACC has finished, live stream recordings can be found on youtube at https://www.youtube.com/playlist?list=PLLsW30U_WCtctxoZz-lRF7O9wIcUl34g0 
 
 Where:
 
 - [Twitch Live Stream](https://www.twitch.tv/africakenyah) for 1 - 3 hours
+- [Youtube](https://www.youtube.com/channel/UCiaMi-uLijoOEPT0lfaQCvw) for the replays 1 day after the live stream
 
 - Discord (check the our [Welcome and Introductions Page](https://github.com/codingtherapist/webAccessibilityStudyGroup/discussions/5) for instructions on how to gain access)
+
+
 <h3> Who it's for:</h3>
 
 - Web developers who want to learn more about Web Accessibility and how to build inclusive, human centered web applications
