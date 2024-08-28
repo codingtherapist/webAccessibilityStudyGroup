@@ -4,18 +4,24 @@ Greetings and welcome to the Web Accessibility Study Group!
 
 ![web accessibility study group logo with text and lines in computer shape](https://github.com/codingtherapist/webAccessibilityStudyGroup/assets/96845068/af783ee1-1b25-4f3f-afa0-0b8a633d4214)
 
+
+
 Here is the youtube video of the live info session going over all the information found in this repo: https://www.youtube.com/watch?v=ZVQiqL0HqsI&t=812s
 
-Signup For our [Monthly Accessibility Newsletter and Slack Access](https://docs.google.com/forms/d/e/1FAIpQLScM3ib9AARjHearBrNOo-Q3qq1rZgivxwvABecsFbmL5vpv5A/viewform) where we will let you know when we are streaming, share resources with the community, and give you a summary of all the things we learned for the month.
+Signup For our [Monthly Web Accessibility Newsletter](https://docs.google.com/forms/d/e/1FAIpQLSdj-mgpU3I70XYlNDCDjFbpryhJ2RqKY9bd7stkBwWnfq_4AQ/viewform) where we will let you know when we are streaming, share resources with the community, and give you a summary of all the things we learned for the month.
 
 <br>
 <h2>About Our Study Group</h2>
+
+
+![The image is a flyer for a "Monthly Web Accessibility Study Group." It provides details about upcoming sessions and a stream schedule. The sessions are as follows: - August 29: Welcome Back Info Session - September 12: Keyboard, Touch & Mouse Accessibility - October 10: Accessible JavaScript with guest @GrahamTheDev, Head of Accessibility - November 7: AJAX & Single Page Applications with guest @ToddLibby, Web Accessibility Engineer There is also a special event on September 22 at 12 PM EST titled "Learn BRAILLE with friends!" The stream schedule is: - Study Group: Every 2nd Thursday at 4 PM EST - Office Hours: Every 4th Sunday at 12 PM EST The location for the streams is www.twitch.com/africakenyah.](https://github.com/user-attachments/assets/b57e8a18-f55b-4758-9bf5-de8e140e46ab)
 <h3>What is the Web Accessibility Study Group?</h3>
 This is a study group for individuals who would like support and community as they learn web accessibility topics. The group follows a study guide outlining topics from web accessibility fundamentals to Javascript ARIA widgets. Our official study plan can be found at https://github.com/users/codingtherapist/projects/1
 <h3> Where and When We Meet</h3>
 When:
 
--  The first and third Thursdays in between 4PM EST and 630pm EST.
+-  The second Thursdays in between 4PM EST and 630pm EST for study session.
+-  The 4th Sunday of the month at 12pm EST for office hours.
 -  The first cohort for the 8 week study group covering Web Accessibility Fundamentals for the IAAP CPACC has finished, live stream recordings can be found on youtube at https://www.youtube.com/playlist?list=PLLsW30U_WCtctxoZz-lRF7O9wIcUl34g0 
 
 Where:
