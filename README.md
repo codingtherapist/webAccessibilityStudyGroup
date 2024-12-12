@@ -8,7 +8,7 @@ Greetings and welcome to the Web Accessibility Study Group!
 
 Here is the youtube video of the live info session going over all the information found in this repo: https://www.youtube.com/watch?v=ZVQiqL0HqsI&t=812s
 
-Signup For our upcoming 2025 [Monthly Web Accessibility Newsletter](https://docs.google.com/forms/d/e/1FAIpQLSdj-mgpU3I70XYlNDCDjFbpryhJ2RqKY9bd7stkBwWnfq_4AQ/viewform) where we will let you know when we are streaming, share resources with the community, and give you a summary of all the things we learned for the month.
+Signup for our upcoming 2025 [Monthly Web Accessibility Newsletter](https://docs.google.com/forms/d/e/1FAIpQLSdj-mgpU3I70XYlNDCDjFbpryhJ2RqKY9bd7stkBwWnfq_4AQ/viewform) where we will let you know when we are streaming, share resources with the community, and give you a summary of all the things we learned for the month.
 
 <br>
 <h2>About Our Study Group</h2>
