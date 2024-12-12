@@ -21,15 +21,14 @@ This is a study group for individuals who would like support and community as th
 When:
 
 -  The second Thursdays in between 4PM EST and 630pm EST for study session.
--  The 4th Sunday of the month at 12pm EST for office hours.
 -  The first cohort for the 8 week study group covering Web Accessibility Fundamentals for the IAAP CPACC has finished, live stream recordings can be found on youtube at https://www.youtube.com/playlist?list=PLLsW30U_WCtctxoZz-lRF7O9wIcUl34g0 
 
 Where:
 
 - [Twitch Live Stream](https://www.twitch.tv/africakenyah) for 1 - 3 hours
-- [Youtube](https://www.youtube.com/channel/UCiaMi-uLijoOEPT0lfaQCvw) for the replays 1 day after the live stream
+- [Youtube](https://www.youtube.com/channel/UCiaMi-uLijoOEPT0lfaQCvw) for the replays a few days after the live stream
 
-- Slack (check the our [Welcome and Introductions Page](https://github.com/codingtherapist/webAccessibilityStudyGroup/discussions/5) for instructions on how to gain access)
+- Discord (check the our [Welcome and Introductions Page](https://github.com/codingtherapist/webAccessibilityStudyGroup/discussions/5) for instructions on how to gain access)
 
 
 <h3> Who it's for:</h3>
@@ -57,10 +56,6 @@ Note: if you are on the mobile app, tap the link below and scroll down to "homew
 
 
 <h2> Web Accessibility Group Study Outline Material</h2>
-
-Our [official study plan](https://github.com/users/codingtherapist/projects/1) lives in the "projects" section of Github and contains the material we are learning each week. Each week has an outline of what we will be studying on stream and homework, with an area for comments if anyone has any questions or comments etc.<br><br>
-
-
 
 Below is the material we will be using as we study weekly to supplement the above study guide:<br>
 
