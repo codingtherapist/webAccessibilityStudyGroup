@@ -95,6 +95,6 @@ This is a study group for newbies and professionals who would like to get togeth
 <h3>Members can join the livestream via video as a guest on twitch!</h3>
 We will be streaming weekly on twitch, sharing concepts and live coding accessible elements. While @africakenyah will be the one streaming, others in the study group can join the stream via video as a co-streamer on any week. Co- streamers can choose to teach the group a concept, ask questions, or just turn their camera on and study silently. Alternatively (and highly encouraged), <b>accessibility professionals with experience can request to lead the study group and give clarity on the subjects we are learning for the week</b>. A calendly calendar will be created for members to sign up for co streaming any of the upcoming weeks. The twitch chat will always be available for communication to those who prefer to chat and watch only.
 
-<h3>We will meet weekly, but life happens</h3>
+<h3>We will meet monthly, but life happens</h3>
 While the intent is to meet every month and hold ourselves accountable to that, life happens. There may be weeks we do not meet on twitch. However, the discord will always be available for members to chat and meet for silent study or discussion at their discretion. 
 
