@@ -16,7 +16,8 @@ Signup For our [Monthly Web Accessibility Newsletter](https://docs.google.com/fo
 
 ![The image is a flyer for a "Monthly Web Accessibility Study Group." It provides details about upcoming sessions and a stream schedule. The sessions are as follows: - August 29: Welcome Back Info Session - September 12: Keyboard, Touch & Mouse Accessibility - October 10: Accessible JavaScript with guest @GrahamTheDev, Head of Accessibility - November 7: AJAX & Single Page Applications with guest @ToddLibby, Web Accessibility Engineer There is also a special event on September 22 at 12 PM EST titled "Learn BRAILLE with friends!" The stream schedule is: - Study Group: Every 2nd Thursday at 4 PM EST - Office Hours: Every 4th Sunday at 12 PM EST The location for the streams is www.twitch.com/africakenyah.](https://github.com/user-attachments/assets/b57e8a18-f55b-4758-9bf5-de8e140e46ab)
 <h3>What is the Web Accessibility Study Group?</h3>
-This is a study group for individuals who would like support and community as they learn web accessibility topics. The group follows a study guide outlining topics from web accessibility fundamentals to Javascript ARIA widgets. Our official study plan can be found at https://github.com/users/codingtherapist/projects/1
+This is a study group for individuals who would like support and community as they learn web accessibility topics. The group follows a study guide outlining topics from web accessibility fundamentals to Javascript ARIA widgets. 
+
 <h3> Where and When We Meet</h3>
 When:
 
