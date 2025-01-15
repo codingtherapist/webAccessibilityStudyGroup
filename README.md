@@ -18,7 +18,8 @@ January 16 – Welcome back info session.
 February 13 – Web Content Accessibility Guidelines (WCAG) Crash Course.
 March 13 – Automated and Manual Accessibility Testing.
 April 10 – Reviewing and remediating accessibility issues with guest speaker Florian Beijers (@zersiax), a Software Engineer.
-May 8 + 22 – Web Accessibility Specialist Super Review with guest speaker Homer Gaines (@Xirclebox), a Front-End Developer.)](https://github.com/user-attachments/assets/f1b054b9-503c-48a8-b47c-6f319032ccfc)
+May 8 + 22 – Web Accessibility Specialist Super Review with guest speaker Homer Gaines (@Xirclebox), a Front-End Developer.)](https://github.com/user-attachments/assets/a42e6303-a9ba-4507-8ebe-6e26236379a4)
+
 
 <h3>What is the Web Accessibility Study Group?</h3>
 This is a study group for individuals who would like support and community as they learn web accessibility topics. The group follows a study guide outlining topics from web accessibility fundamentals to Javascript ARIA widgets. 
