@@ -13,8 +13,13 @@ Signup for our upcoming 2025 [Monthly Web Accessibility Newsletter](https://docs
 <br>
 <h2>About Our Study Group</h2>
 
+![A flyer titled "Monthly Web Accessibility Study Group" displays a stream schedule for sessions held every 2nd Thursday at 4 PM EST on Twitch (twitch.tv/africakenyah). The flyer lists specific dates and topics for each month:
+January 16 – Welcome back info session.
+February 13 – Web Content Accessibility Guidelines (WCAG) Crash Course.
+March 13 – Automated and Manual Accessibility Testing.
+April 10 – Reviewing and remediating accessibility issues with guest speaker Florian Beijers (@zersiax), a Software Engineer.
+May 8 + 22 – Web Accessibility Specialist Super Review with guest speaker Homer Gaines (@Xirclebox), a Front-End Developer.)](https://github.com/user-attachments/assets/f1b054b9-503c-48a8-b47c-6f319032ccfc)
 
-![The image is a flyer for a "Monthly Web Accessibility Study Group." It provides details about upcoming sessions and a stream schedule. The sessions are as follows: - August 29: Welcome Back Info Session - September 12: Keyboard, Touch & Mouse Accessibility - October 10: Accessible JavaScript with guest @GrahamTheDev, Head of Accessibility - November 7: AJAX & Single Page Applications with guest @ToddLibby, Web Accessibility Engineer There is also a special event on September 22 at 12 PM EST titled "Learn BRAILLE with friends!" The stream schedule is: - Study Group: Every 2nd Thursday at 4 PM EST - Office Hours: Every 4th Sunday at 12 PM EST The location for the streams is www.twitch.com/africakenyah.](https://github.com/user-attachments/assets/b57e8a18-f55b-4758-9bf5-de8e140e46ab)
 <h3>What is the Web Accessibility Study Group?</h3>
 This is a study group for individuals who would like support and community as they learn web accessibility topics. The group follows a study guide outlining topics from web accessibility fundamentals to Javascript ARIA widgets. 
 
@@ -55,11 +60,7 @@ Below is the material we will be using as we study weekly to supplement the abov
 
 - If you are not familiar with the WAS or CPACC please read the "About" material linked below. <br>
 
-- The "Study Outline" is what we will be following loosely during live streams, starting with the CPACC outline. <br>
-
 - The "Body of Knowledge" is the official documentation for that topic ranging from 102 pages for the CPACC and 42 pages for the WAS. <br>
-
-- The sample questions are question we should be able to answer once we finish studying that section.
 
 - If you'd like to learn more about the IAAP which is the association that holds these certifications check out [IAAP](https://www.accessibilityassociation.org/s/about) 
 
